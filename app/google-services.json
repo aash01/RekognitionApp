@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "159992148217",
+    "firebase_url": "https://face-recognition-aa50d.firebaseio.com",
+    "project_id": "face-recognition-aa50d",
+    "storage_bucket": "face-recognition-aa50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159992148217:android:ed4534aa9fc19ff1",
+        "android_client_info": {
+          "package_name": "com.example.aashr.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159992148217-digt98m2jrfoj903pu8t4181mcb26aui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiBzVS4ZqVER-9N8QeGoL96GX2i3borY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159992148217:android:6a17682be26abf05",
+        "android_client_info": {
+          "package_name": "com.example.aashr.rekognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159992148217-digt98m2jrfoj903pu8t4181mcb26aui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiBzVS4ZqVER-9N8QeGoL96GX2i3borY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
